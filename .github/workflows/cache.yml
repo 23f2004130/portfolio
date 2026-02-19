@@ -1,4 +1,4 @@
-name: Dependency Cache Demo
+name: Cache Assignment
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  cache-demo:
+  test:
     runs-on: ubuntu-latest
 
     steps:
