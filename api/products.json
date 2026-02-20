@@ -3,7 +3,6 @@
   "email": "23f2004130@ds.study.iitm.ac.in",
   "version": 386435201
 },
- "version" : 38643520,
   "products": [
     {"id":"prod-38643520-001","name":"Elite Item 1","category":"books","price":224.22,"stock":108,"rating":3.4},
     {"id":"prod-38643520-002","name":"Premium Item 2","category":"books","price":78.09,"stock":27,"rating":2.1},
